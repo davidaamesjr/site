@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>a1ive.com</title>
+    <link href="file:////home/aames/Documents/Publii/sites/a1ivecom/preview/feed.xml" rel="self" />
+    <link href="file:////home/aames/Documents/Publii/sites/a1ivecom/preview" />
+    <updated>2025-01-06T22:59:28-06:00</updated>
+    <author>
+        <name>aames</name>
+    </author>
+    <id>file:////home/aames/Documents/Publii/sites/a1ivecom/preview</id>
+
+    <entry>
+        <title>This is a block for an article, or the main page.</title>
+        <author>
+            <name>aames</name>
+        </author>
+        <link href="file:////home/aames/Documents/Publii/sites/a1ivecom/preview/this-is-a-block-for-an-article-or-the-main-page.html"/>
+        <id>file:////home/aames/Documents/Publii/sites/a1ivecom/preview/this-is-a-block-for-an-article-or-the-main-page.html</id>
+
+        <updated>2025-01-06T22:59:28-06:00</updated>
+            <summary>
+                <![CDATA[
+                    How to protect yourself against fascism. Testing&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="how-to-protect-yourself-against-fascism">
+      How to protect yourself against fascism.
+    </h2>
+
+    <blockquote class="blockquote">
+      Testing&nbsp;
+    </blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>
